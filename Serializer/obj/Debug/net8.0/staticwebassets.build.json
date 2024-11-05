@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "T9EVjYJmitTKbWeOpr+/wwNT37po8CS+ikrpurHu6mg=",
+  "Source": "Serializer",
+  "BasePath": "_content/Serializer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Serializer\\wwwroot",
+      "Source": "Serializer",
+      "ContentRoot": "C:\\Users\\Asiman\\source\\repos\\Serializer\\Serializer\\wwwroot\\",
+      "BasePath": "_content/Serializer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Asiman\\source\\repos\\Serializer\\Serializer\\wwwroot\\document\\people.txt",
+      "SourceId": "Serializer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Asiman\\source\\repos\\Serializer\\Serializer\\wwwroot\\",
+      "BasePath": "_content/Serializer",
+      "RelativePath": "document/people.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\document\\people.txt"
+    }
+  ]
+}

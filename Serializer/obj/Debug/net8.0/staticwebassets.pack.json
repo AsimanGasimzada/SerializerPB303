@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asiman\\source\\repos\\Serializer\\Serializer\\wwwroot\\document\\people.txt",
+      "PackagePath": "staticwebassets\\document\\people.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Serializer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Serializer.props",
+      "PackagePath": "build\\Serializer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Serializer.props",
+      "PackagePath": "buildMultiTargeting\\Serializer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Serializer.props",
+      "PackagePath": "buildTransitive\\Serializer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
